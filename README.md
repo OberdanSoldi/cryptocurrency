@@ -1,6 +1,6 @@
 # CRYPTOCURRENCY PROJECT
-![GitHub repo size](https://img.shields.io/github/repo-size/OberdanSoldi/javascript-stack)
-![ViewCount](https://views.whatilearened.today/views/github/OberdanSoldi/javascript-stack.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/OberdanSoldi/cryptocurrency)
+![ViewCount](https://views.whatilearened.today/views/github/OberdanSoldi/cryptocurrency.svg)
 
 ###### By: [@OberdanSoldi](https://github.com/OberdanSoldi)
 
